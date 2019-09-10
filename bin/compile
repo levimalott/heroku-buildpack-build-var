@@ -1,0 +1,4 @@
+#!/bin/sh
+
+echo "exporting BUILD_PHASE=1"
+export BUILD_PHASE=1
